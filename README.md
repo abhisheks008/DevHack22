@@ -20,7 +20,7 @@ Initially whenever I go for solving any problem statement I look into different 
 ### 🔴 Awards and Achievements
 **🏆 Winner of the DevHack22 Hackathon organised by DevIncept in the Machine Learning domain.**
 
-<img src = "https://github.com/abhisheks008/DevHack22/blob/main/Certificates/certificate.png" height="175px"> &nbsp; <img src = "https://github.com/abhisheks008/DevHack22/blob/main/Certificates/certificate (1).png" height="175px">
+<img src = "https://github.com/abhisheks008/DevHack22/blob/main/Certificates/certificate.png" height="225px"> &nbsp; <img src = "https://github.com/abhisheks008/DevHack22/blob/main/Certificates/certificate (1).png" height="225px">
 
 
 --
